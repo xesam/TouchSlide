@@ -45,8 +45,8 @@ var TouchSlide = function (container, options) {
     }, false);
 };
 
-TouchSlide.VERTICAL = 'vertical';
-TouchSlide.HORIZONTAL = 'horizontal';
+TouchSlide.VERTICAL = 1;
+TouchSlide.HORIZONTAL = 0;
 
 TouchSlide.prototype = {
     constructor: TouchSlide,
