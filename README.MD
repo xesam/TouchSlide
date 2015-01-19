@@ -10,7 +10,7 @@ No dependency
 
     eg:
 
-    new TouchSlide(containerId or ) //default horizontal slide
+    new TouchSlide(containerId) //default horizontal slide
 
     or
 
