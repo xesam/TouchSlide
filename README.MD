@@ -20,8 +20,6 @@ No dependency
 
 #Demo
 
-[http://localhost:63342/TouchSlide/index.html](http://localhost:63342/TouchSlide/index.html)
-
 ![vertical](vertical.png)
 
 *****
